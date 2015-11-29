@@ -1,0 +1,14 @@
+/Users/max/Projects/Serialize/Serialize/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/max/Projects/Serialize/Serialize/bin/Debug/Serialize.exe.mdb
+/Users/max/Projects/Serialize/Serialize/bin/Debug/Serialize.exe
+/Users/max/Projects/Serialize/Serialize/obj/x86/Debug/Serialize.exe
+/Users/max/Projects/Serialize/Serialize/obj/x86/Debug/Serialize.exe.mdb
+/Users/max/Projects/Serialize/Serialize/bin/Debug/Faker.dll
+/Users/max/Projects/Serialize/Serialize/bin/Debug/Newtonsoft.Json.dll
+/home/maxi/Serialize/Serialize/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/maxi/Serialize/Serialize/obj/x86/Debug/Serialize.exe
+/home/maxi/Serialize/Serialize/obj/x86/Debug/Serialize.exe.mdb
+/home/maxi/Serialize/Serialize/bin/Debug/Faker.dll
+/home/maxi/Serialize/Serialize/bin/Debug/Newtonsoft.Json.dll
+/home/maxi/Serialize/Serialize/bin/Debug/Serialize.exe.mdb
+/home/maxi/Serialize/Serialize/bin/Debug/Serialize.exe

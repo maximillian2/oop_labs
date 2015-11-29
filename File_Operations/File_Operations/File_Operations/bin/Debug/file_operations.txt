@@ -1,0 +1,10 @@
+Robinson Mark 3 female 5 4 4.8
+Thompson Charles 3 male 8 1 1.0
+Edwards Michelle 5 male 13 1 1.0
+Harris Robyn 5 male 1 3 1.0
+Thomas Roger 4 male 12 3 1.0
+Lee Felicity 0 female 8 4 3.5
+Lewis Anna 1 female 8 2 3.5
+Dent Sharon 5 female 3 1 3.5
+Robinson Elizabeth 1 female 1 2 3.5
+Anthony Cheryl 0 female 11 4 3.5

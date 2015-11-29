@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Serialize/Serialize.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serialize/Program.cs">
+    <Files>
+      <File FileName="Serialize/Program.cs" Line="22" Column="29" />
+      <File FileName="Serialize/Product.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
